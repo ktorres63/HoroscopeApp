@@ -11,7 +11,7 @@
         android:label="fragment_horoscope"
         tools:layout="@layout/fragment_horoscope" />
     <fragment
-        android:id="@+id/luckFragment2"
+        android:id="@+id/luckFragment"
         android:name="com.tutorial.horoscopeapp.ui.luck.LuckFragment"
         android:label="fragment_luck"
         tools:layout="@layout/fragment_luck" />
